@@ -1,3 +1,8 @@
+! ------------------------------------[UPDATE]--------------------------------------
+! Title: The Block List Project - Game Online List (adguard)
+! Expires: 1 day
+! Game Online list
+! ------------------------------------[FILTERS]-------------------------------------
 ||emulatoronline.com
 ||puffgames.com
 ||nick.com.au
